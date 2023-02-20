@@ -1,10 +1,8 @@
 ---
 title: ':user-valid (:-moz-ui-valid)'
-slug: Web/CSS/:user-valid
+slug: web/css/:user-valid
 translation_of: Web/CSS/:user-valid
 browser-compat: css.selectors.user-valid
-l10n:
-  sourceCommit: 257486f64b2472dda4996a4ea7b6b5305e46f863
 ---
 
 {{CSSRef}}

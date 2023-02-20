@@ -1,11 +1,12 @@
 ---
 title: WebAssembly
-slug: WebAssembly
+slug: orphaned/WebAssembly
 tags:
   - Landing
   - WebAssembly
   - wasm
 translation_of: WebAssembly
+original_slug: WebAssembly
 ---
 
 {{WebAssemblySidebar}}{{SeeCompatTable}}

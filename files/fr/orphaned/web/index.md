@@ -1,10 +1,11 @@
 ---
 title: Technologies web pour développeurs
-slug: Web
+slug: orphaned/Web
 tags:
   - Landing
   - Web
 translation_of: Web
+original_slug: Web
 ---
 
 Le Web fournit d'incroyables opportunités aux développeuses et développeurs. Pour tirer le meilleur parti de ces technologies, il est nécessaire de savoir comment les utiliser. Voici différents liens qui vous permettront de naviguer dans la documentation de ces technologies web.

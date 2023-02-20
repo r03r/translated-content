@@ -1,6 +1,6 @@
 ---
 title: Apprendre le développement web
-slug: Learn
+slug: orphaned/Learn
 tags:
   - Apprendre
   - Beginner
@@ -12,7 +12,7 @@ tags:
   - Landing
   - Web
 translation_of: Learn
-original_slug: Apprendre
+original_slug: Learn
 ---
 
 {{LearnSidebar}}

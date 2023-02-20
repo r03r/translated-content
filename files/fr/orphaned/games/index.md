@@ -1,12 +1,12 @@
 ---
 title: Développement de jeux vidéo
-slug: Games
+slug: orphaned/Games
 tags:
   - Applications
   - Développement
   - Jeux
 translation_of: Games
-original_slug: Jeux
+original_slug: Games
 ---
 
 {{GamesSidebar}}

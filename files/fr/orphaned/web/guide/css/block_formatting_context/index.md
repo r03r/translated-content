@@ -1,12 +1,12 @@
 ---
 title: Contexte de formatage de blocs
-slug: Web/Guide/CSS/Block_formatting_context
+slug: orphaned/Web/Guide/CSS/Block_formatting_context
 tags:
   - CSS
   - Reference
   - Web
 translation_of: Web/Guide/CSS/Block_formatting_context
-original_slug: Web/CSS/Block_formatting_context
+original_slug: Web/Guide/CSS/Block_formatting_context
 ---
 
 {{CSSRef}}

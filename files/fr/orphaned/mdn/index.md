@@ -1,11 +1,12 @@
 ---
 title: Le projet MDN
-slug: MDN
+slug: orphaned/MDN
 tags:
   - Accueil
   - MDN
   - MDN Meta
 translation_of: MDN
+original_slug: MDN
 ---
 
 {{MDNSidebar}}
