@@ -1,6 +1,7 @@
 ---
 title: WebAssembly
-slug: WebAssembly
+slug: orphaned/WebAssembly
+original_slug: WebAssembly
 ---
 
 {{WebAssemblySidebar}}

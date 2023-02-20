@@ -132,23 +132,25 @@
 /zh-TW/docs/Firefox_3_技術文件	/zh-TW/docs/Mozilla/Firefox/Releases/3
 /zh-TW/docs/Firefox_4_for_developers	/zh-TW/docs/Mozilla/Firefox/Releases/4
 /zh-TW/docs/Firefox_7_for_developers	/zh-TW/docs/Mozilla/Firefox/Releases/7
+/zh-TW/docs/Games	/zh-TW/docs/orphaned/Games
 /zh-TW/docs/Games/Workflows	/zh-TW/docs/Games/Tutorials
 /zh-TW/docs/Games/Workflows/2D_Breakout_game_pure_JavaScript	/zh-TW/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript
 /zh-TW/docs/Games/Workflows/2D_Breakout_game_pure_JavaScript/Bounce_off_the_walls	/zh-TW/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript/Bounce_off_the_walls
 /zh-TW/docs/Games/Workflows/2D_Breakout_game_pure_JavaScript/Create_the_Canvas_and_draw_on_it	/zh-TW/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript/Create_the_Canvas_and_draw_on_it
 /zh-TW/docs/Games/Workflows/2D_Breakout_game_pure_JavaScript/Move_the_ball	/zh-TW/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript/Move_the_ball
+/zh-TW/docs/Glossary	/zh-TW/docs/orphaned/Glossary
 /zh-TW/docs/Glossary/404	/zh-TW/docs/Web/HTTP/Status/404
 /zh-TW/docs/Glossary/502	/zh-TW/docs/Web/HTTP/Status/502
 /zh-TW/docs/Glossary/Empty_element	/zh-TW/docs/Glossary/Void_element
 /zh-TW/docs/Glossary/偽元素	/zh-TW/docs/Glossary/Pseudo-element
 /zh-TW/docs/Glossary/字元	/zh-TW/docs/Glossary/Character
-/zh-TW/docs/Glossary/字元編碼	/zh-TW/docs/Glossary/character_encoding
+/zh-TW/docs/Glossary/字元編碼	/zh-TW/docs/Glossary/Character_encoding
 /zh-TW/docs/Glossary/布林	/zh-TW/docs/Glossary/Boolean
 /zh-TW/docs/Glossary/抽象化	/zh-TW/docs/Glossary/Abstraction
 /zh-TW/docs/Glossary/瀏覽器	/zh-TW/docs/Glossary/Browser
 /zh-TW/docs/Glossary/物件導向程式設計(OOP)	/zh-TW/docs/Glossary/OOP
 /zh-TW/docs/Glossary/資料結構	/zh-TW/docs/Glossary/Data_structure
-/zh-TW/docs/Glossary/陣列	/zh-TW/docs/Glossary/array
+/zh-TW/docs/Glossary/陣列	/zh-TW/docs/Glossary/Array
 /zh-TW/docs/HTML	/zh-TW/docs/Web/HTML
 /zh-TW/docs/HTML/Canvas	/zh-TW/docs/Web/API/Canvas_API
 /zh-TW/docs/HTML/Element	/zh-TW/docs/Web/HTML/Element
@@ -382,6 +384,7 @@
 /zh-TW/docs/JavaScript_正規表達式	/zh-TW/docs/Web/JavaScript/Guide/Regular_Expressions
 /zh-TW/docs/JavaScript_物件導向介紹	/zh-TW/docs/Learn/JavaScript/Objects
 /zh-TW/docs/JavaScript_語言的資源	/zh-TW/docs/Web/JavaScript/JavaScript_technologies_overview
+/zh-TW/docs/Learn	/zh-TW/docs/orphaned/Learn
 /zh-TW/docs/Learn/CSS/CSS_轉場	/zh-TW/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions
 /zh-TW/docs/Learn/CSS/Consistent_List_Indentation	/zh-TW/docs/Web/CSS/CSS_Lists_and_Counters/Consistent_list_indentation
 /zh-TW/docs/Learn/CSS/Getting_started	/en-US/docs/Learn/CSS/First_steps
@@ -432,6 +435,7 @@
 /zh-TW/docs/Learn/JavaScript/第一步	/zh-TW/docs/Learn/JavaScript/First_steps
 /zh-TW/docs/Learn/Performance/多媒體	/zh-TW/docs/Learn/Performance/Multimedia
 /zh-TW/docs/Learn/Server-side/First_steps/介紹	/zh-TW/docs/Learn/Server-side/First_steps/Introduction
+/zh-TW/docs/MDN	/zh-TW/docs/orphaned/MDN
 /zh-TW/docs/MDN/About	/zh-TW/docs/MDN/Writing_guidelines
 /zh-TW/docs/MDN/Community/論壇	/en-US/docs/MDN/Community
 /zh-TW/docs/MDN/Contribute/Content	/zh-TW/docs/MDN/Writing_guidelines
@@ -462,6 +466,7 @@
 /zh-TW/docs/MDN/Tools/KumaScript/Troubleshooting	https://github.com/mdn/yari/tree/main/docs/kumascript/troubleshooting-errors.md
 /zh-TW/docs/MDN/Yari	https://github.com/mdn/yari/tree/main/docs/what-yari-does.md
 /zh-TW/docs/MDN_at_ten	/zh-TW/docs/MDN/At_ten
+/zh-TW/docs/Mozilla	/zh-TW/docs/orphaned/Mozilla
 /zh-TW/docs/Mozilla/Add-ons/WebExtensions/Porting_from_Google_Chrome	https://extensionworkshop.com/documentation/develop/porting-a-google-chrome-extension/
 /zh-TW/docs/Mozilla/Add-ons/WebExtensions/manifest.json/applications	/zh-TW/docs/Mozilla/Add-ons/WebExtensions/manifest.json/browser_specific_settings
 /zh-TW/docs/Mozilla/Add-ons/WebExtensions/manifest.json/作者	/zh-TW/docs/Mozilla/Add-ons/WebExtensions/manifest.json/author
@@ -528,6 +533,7 @@
 /zh-TW/docs/Tools/Web_Console/UI_Tour	https://firefox-source-docs.mozilla.org/devtools-user/web_console/ui_tour/index.html
 /zh-TW/docs/Using_files_from_web_applications	/zh-TW/docs/Web/API/File_API/Using_files_from_web_applications
 /zh-TW/docs/Using_geolocation	/zh-TW/docs/Web/API/Geolocation_API
+/zh-TW/docs/Web	/zh-TW/docs/orphaned/Web
 /zh-TW/docs/Web/API/Ambient_Light_Events	/en-US/docs/Web/API/AmbientLightSensor
 /zh-TW/docs/Web/API/AnimationEvent/initAnimationEvent	/zh-TW/docs/Web/API/AnimationEvent/AnimationEvent
 /zh-TW/docs/Web/API/Canvas_API/Drawing_graphics_with_canvas	/zh-TW/docs/Web/API/Canvas_API/Tutorial
@@ -836,7 +842,7 @@
 /zh-TW/docs/Web/JavaScript/Typed_arrays/ArrayBuffer/prototype	/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer
 /zh-TW/docs/Web/JavaScript/資料結構	/zh-TW/docs/Web/JavaScript/Data_structures
 /zh-TW/docs/Web/JavaScript/重新介紹_JavaScript	/zh-TW/docs/Web/JavaScript/Language_Overview
-/zh-TW/docs/Web/Reference	/zh-TW/docs/Web
+/zh-TW/docs/Web/Reference	/zh-TW/docs/orphaned/Web
 /zh-TW/docs/Web/Reference/API	/zh-TW/docs/Web/API
 /zh-TW/docs/Web/Reference/Events	/zh-TW/docs/Web/Events
 /zh-TW/docs/Web/Reference/Events/DOMContentLoaded	/zh-TW/docs/Web/API/Window/DOMContentLoaded_event
@@ -864,6 +870,7 @@
 /zh-TW/docs/WebAPI/Using_Light_Events	/en-US/docs/Web/API/AmbientLightSensor
 /zh-TW/docs/WebAPI/Using_Web_Notifications	/zh-TW/docs/Web/API/Notifications_API/Using_the_Notifications_API
 /zh-TW/docs/WebAPI/Vibration	/zh-TW/docs/Web/API/Vibration_API
+/zh-TW/docs/WebAssembly	/zh-TW/docs/orphaned/WebAssembly
 /zh-TW/docs/WebSockets	/zh-TW/docs/Web/API/WebSockets_API
 /zh-TW/docs/WebSockets/WebSockets_reference	/zh-TW/docs/Web/API/WebSockets_API
 /zh-TW/docs/WebSockets/WebSockets_reference/CloseEvent	/zh-TW/docs/Web/API/CloseEvent
@@ -886,4 +893,4 @@
 /zh-TW/docs/製作_OpenSearch_搜尋模組	/zh-TW/docs/Web/OpenSearch
 /zh-TW/docs/調整列表縮排	/zh-TW/docs/Web/CSS/CSS_Lists_and_Counters/Consistent_list_indentation
 /zh-TW/docs/重新介紹_JavaScript	/zh-TW/docs/Web/JavaScript/Language_Overview
-/zh-TW/docs/首頁	/zh-TW/docs/Web
+/zh-TW/docs/首頁	/zh-TW/docs/orphaned/Web

@@ -1,6 +1,7 @@
 ---
 title: MDN 專案
-slug: MDN
+slug: orphaned/MDN
+original_slug: MDN
 ---
 
 {{MDNSidebar}}

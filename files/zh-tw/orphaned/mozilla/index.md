@@ -1,6 +1,7 @@
 ---
 title: Mozilla
-slug: Mozilla
+slug: orphaned/Mozilla
+original_slug: Mozilla
 ---
 
 {{FirefoxSidebar}}
