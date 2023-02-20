@@ -1,6 +1,7 @@
 ---
 title: 游戏开发环境
-slug: Games
+slug: orphaned/Games
+original_slug: Games
 ---
 
 {{GamesSidebar}}

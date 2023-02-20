@@ -1,6 +1,7 @@
 ---
 title: 学习 Web 开发
-slug: Learn
+slug: orphaned/Learn
+original_slug: Learn
 ---
 
 {{LearnSidebar}}

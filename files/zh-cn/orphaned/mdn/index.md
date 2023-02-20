@@ -1,6 +1,7 @@
 ---
 title: MDN Web 文档项目
-slug: MDN
+slug: orphaned/MDN
+original_slug: MDN
 ---
 
 {{MDNSidebar}}

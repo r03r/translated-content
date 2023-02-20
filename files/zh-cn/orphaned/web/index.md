@@ -1,6 +1,7 @@
 ---
 title: Web 开发技术
-slug: Web
+slug: orphaned/Web
+original_slug: Web
 ---
 
 <section id="Quick_links">

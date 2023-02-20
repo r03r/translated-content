@@ -1,6 +1,7 @@
 ---
 title: 块格式化上下文
-slug: Web/Guide/CSS/Block_formatting_context
+slug: orphaned/Web/Guide/CSS/Block_formatting_context
+original_slug: Web/Guide/CSS/Block_formatting_context
 ---
 
 {{ CSSRef }}
