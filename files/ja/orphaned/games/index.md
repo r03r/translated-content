@@ -1,6 +1,7 @@
 ---
 title: ゲーム開発
-slug: Games
+slug: orphaned/Games
+original_slug: Games
 ---
 
 {{GamesSidebar}}

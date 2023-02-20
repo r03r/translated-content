@@ -1,8 +1,7 @@
 ---
 title: MDN Web Docs プロジェクト
-slug: MDN
-i10n:
-  commitSource: 8dbe0b2acd7fdbf533a9bd2f517999cc2035d952
+slug: orphaned/MDN
+original_slug: MDN
 ---
 
 {{MDNSidebar}}

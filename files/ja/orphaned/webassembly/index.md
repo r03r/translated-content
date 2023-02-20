@@ -1,8 +1,7 @@
 ---
 title: WebAssembly
-slug: WebAssembly
-l10n:
-  sourceCommit: 73cc9b528b45a869992d268f119853021b33d454
+slug: orphaned/WebAssembly
+original_slug: WebAssembly
 ---
 
 {{WebAssemblySidebar}}

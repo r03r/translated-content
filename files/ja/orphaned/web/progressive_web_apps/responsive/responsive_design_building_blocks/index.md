@@ -1,6 +1,7 @@
 ---
 title: レスポンシブデザインの構成要素
-slug: Web/Progressive_web_apps/Responsive/responsive_design_building_blocks
+slug: orphaned/Web/Progressive_web_apps/Responsive/responsive_design_building_blocks
+original_slug: Web/Progressive_web_apps/Responsive/responsive_design_building_blocks
 ---
 
 この記事では、レスポンシブデザインの主な基本要素について説明し、必要に応じてさらなる情報へのリンクを紹介します。

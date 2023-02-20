@@ -1,6 +1,7 @@
 ---
 title: ウェブ開発を学ぶ
-slug: Learn
+slug: orphaned/Learn
+original_slug: Learn
 ---
 
 {{LearnSidebar}}
