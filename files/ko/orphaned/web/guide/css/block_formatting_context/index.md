@@ -1,6 +1,7 @@
 ---
 title: 블록 서식 맥락
-slug: Web/Guide/CSS/Block_formatting_context
+slug: orphaned/Web/Guide/CSS/Block_formatting_context
+original_slug: Web/Guide/CSS/Block_formatting_context
 ---
 
 {{ CSSRef }}

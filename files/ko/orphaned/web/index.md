@@ -1,6 +1,7 @@
 ---
 title: 개발자를 위한 웹 기술
-slug: Web
+slug: orphaned/Web
+original_slug: Web
 ---
 
 <section id="Quick_links">

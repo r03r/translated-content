@@ -1,7 +1,9 @@
 ---
 title: Web 개발 학습하기
-slug: Learn
+slug: orphaned/Learn
+original_slug: Learn
 ---
+
 {{LearnSidebar}}
 
 MDN 학습지에 오신 것을 환영합니다! 여기는 웹 개발을 처음 접하는 초보자가 웹 사이트 개발을 시작하기 위해 필요한 모든 것을 제공하는 글을 모아놓은 곳입니다.
