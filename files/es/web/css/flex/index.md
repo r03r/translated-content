@@ -123,4 +123,4 @@ flex.addEventListener("click", function() {
 
 ## Ver también
 
-- [Usar las cajas felxibles de CSS](/es/docs/Web/CSS/CSS_Flexible_Box_Layout/Usando_las_cajas_flexibles_CSS/)
+- [Usar también los flexbox de CSS](/es/docs/Web/CSS/CSS_Flexible_Box_Layout/Usando_las_cajas_flexibles_CSS/)
