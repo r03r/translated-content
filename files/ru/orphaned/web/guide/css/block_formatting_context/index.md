@@ -1,13 +1,15 @@
 ---
 title: Блочный контекст форматирования
-slug: Web/Guide/CSS/Block_formatting_context
+slug: orphaned/Web/Guide/CSS/Block_formatting_context
 tags:
   - CSS
   - CSS Basic Concepts
   - Для начинающих
   - Основы
 translation_of: Web/Guide/CSS/Block_formatting_context
+original_slug: Web/Guide/CSS/Block_formatting_context
 ---
+
 {{ CSSRef() }}
 
 ## Описание

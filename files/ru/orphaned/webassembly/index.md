@@ -1,8 +1,10 @@
 ---
 title: WebAssembly
-slug: WebAssembly
+slug: orphaned/WebAssembly
 translation_of: WebAssembly
+original_slug: WebAssembly
 ---
+
 {{WebAssemblySidebar}}
 
 WebAssembly – это новый открытый формат байт-кода, исполняемого современными браузерами. Он позволяет переносить код, написанный на таких языках как C, C++, C#, Rust, в низкоуровневые ассемблерные инструкции и использовать его в сети. Формат имеет компактные размеры, высокую производительность, близкую к нативной, и может одновременно работать с JavaScript.

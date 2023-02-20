@@ -1,6 +1,7 @@
 ---
 title: Веб-технологии для разработчиков
-slug: Web
+slug: orphaned/Web
+original_slug: Web
 ---
 
 <section id="Quick_links">
