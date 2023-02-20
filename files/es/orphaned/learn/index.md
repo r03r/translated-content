@@ -1,6 +1,7 @@
 ---
 title: Aprende sobre desarrollo web
-slug: Learn
+slug: orphaned/Learn
+original_slug: Learn
 ---
 
 {{LearnSidebar}}

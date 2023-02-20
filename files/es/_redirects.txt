@@ -211,7 +211,7 @@
 /es/docs/Core_JavaScript_1.5_Reference/Objects/String/small	/es/docs/Web/JavaScript/Reference/Global_Objects/String/small
 /es/docs/Core_JavaScript_1.5_Reference:Objects:String:small	/es/docs/Web/JavaScript/Reference/Global_Objects/String/small
 /es/docs/Creacion_de_plugins_OpenSearch_para_Firefox	/es/docs/Web/OpenSearch
-/es/docs/DHTML	/es/docs/Glossary
+/es/docs/DHTML	/es/docs/orphaned/Glossary
 /es/docs/DOM/CSS	/es/docs/Web/CSS
 /es/docs/DOM/CssRule	/es/docs/Web/API/CSSRule
 /es/docs/DOM/CssRule.cssText	/es/docs/Web/API/CSSRule/cssText
@@ -310,7 +310,7 @@
 /es/docs/DOM/window.navigator.registerProtocolHandler	/es/docs/Web/API/Navigator/registerProtocolHandler
 /es/docs/DOM/window.navigator.vibrate	/es/docs/Web/API/Navigator/vibrate
 /es/docs/DOM/window.onload	/es/docs/conflicting/Web/API/Window/load_event
-/es/docs/DOM/window.requestAnimationFrame	/es/docs/Web/API/Window/requestAnimationFrame
+/es/docs/DOM/window.requestAnimationFrame	/es/docs/Web/API/window/requestAnimationFrame
 /es/docs/DOM:Selection:addRange	/es/docs/Web/API/Selection/addRange
 /es/docs/DOM:Selection:anchorNode	/es/docs/Web/API/Selection/anchorNode
 /es/docs/DOM:Selection:anchorOffset	/es/docs/Web/API/Selection/anchorOffset
@@ -432,6 +432,7 @@
 /es/docs/Firefox_3.5_para_desarrolladores/Firefox_3.1_para_desarrolladores	/es/docs/Mozilla/Firefox/Releases/3.5
 /es/docs/Firefox_3.5_para_desarrolladores/Firefox_3.5_para_desarrolladores	/es/docs/Mozilla/Firefox/Releases/3.5
 /es/docs/Firefox_3_para_desarrolladores	/es/docs/Mozilla/Firefox/Releases/3
+/es/docs/Games	/es/docs/orphaned/Games
 /es/docs/Games/Herramients	/es/docs/Games/Tools
 /es/docs/Games/Herramients/asm.js	/es/docs/Games/Tools/asm.js
 /es/docs/Games/Introduccion	/es/docs/Games/Introduction
@@ -452,13 +453,14 @@
 /es/docs/Games/Workflows/Famoso_juego_2D_usando_JavaScript_puro/Track_the_score_and_win	/es/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript/Track_the_score_and_win
 /es/docs/Games/Workflows/HTML5_Gamedev_Phaser_Device_Orientation	/es/docs/Games/Tutorials/HTML5_Gamedev_Phaser_Device_Orientation
 /es/docs/Gestión_del_foco_en_HTML	/es/docs/Web/API/Document/hasFocus
+/es/docs/Glossary	/es/docs/orphaned/Glossary
 /es/docs/Glossary/404	/es/docs/conflicting/Web/HTTP/Status/404
 /es/docs/Glossary/502	/es/docs/conflicting/Web/HTTP/Status/502
 /es/docs/Glossary/AOM	/es/docs/Glossary/Accessibility_tree
 /es/docs/Glossary/Algoritmo	/es/docs/Glossary/Algorithm
 /es/docs/Glossary/Argumento	/es/docs/Glossary/Argument
 /es/docs/Glossary/Arquitectura_de_la_información	/es/docs/Glossary/Information_architecture
-/es/docs/Glossary/Arreglos	/es/docs/Glossary/array
+/es/docs/Glossary/Arreglos	/es/docs/Glossary/Array
 /es/docs/Glossary/Asíncrono	/es/docs/Glossary/Asynchronous
 /es/docs/Glossary/Atributo	/es/docs/Glossary/Attribute
 /es/docs/Glossary/CID	/es/docs/Glossary/CIA
@@ -472,7 +474,7 @@
 /es/docs/Glossary/Constante	/es/docs/Glossary/Constant
 /es/docs/Glossary/Criptoanálisis	/es/docs/Glossary/Cryptanalysis
 /es/docs/Glossary/Criptografía	/es/docs/Glossary/Cryptography
-/es/docs/Glossary/DHTML	/es/docs/Glossary
+/es/docs/Glossary/DHTML	/es/docs/orphaned/Glossary
 /es/docs/Glossary/Descifrado	/es/docs/Glossary/Decryption
 /es/docs/Glossary/Dynamic_programming_language	/es/docs/orphaned/Glossary/Dynamic_programming_language
 /es/docs/Glossary/Empty_element	/es/docs/Glossary/Void_element
@@ -515,12 +517,12 @@
 /es/docs/Glossary/Valor	/es/docs/Glossary/Value
 /es/docs/Glossary/XForm	/es/docs/Glossary/XForms
 /es/docs/Glossary/coercion	/es/docs/Glossary/Type_coercion
-/es/docs/Glossary/conjunto_de_caracteres	/es/docs/Glossary/character_set
+/es/docs/Glossary/conjunto_de_caracteres	/es/docs/Glossary/Character_set
 /es/docs/Glossary/jQuery	/es/docs/orphaned/Glossary/jQuery
 /es/docs/Glossary/miga-de-pan	/es/docs/Glossary/Breadcrumb
-/es/docs/Glossary/propiedad	/es/docs/Glossary/property
-/es/docs/Glossary/seguro	/es/docs/Glossary/safe
-/es/docs/Glossary/undefined_es	/es/docs/Glossary/undefined
+/es/docs/Glossary/propiedad	/es/docs/Glossary/Property
+/es/docs/Glossary/seguro	/es/docs/Glossary/Safe
+/es/docs/Glossary/undefined_es	/es/docs/Glossary/Undefined
 /es/docs/Guía_JavaScript_1.5	/es/docs/Web/JavaScript/Guide
 /es/docs/Guía_JavaScript_1.5/Acerca_de_esta_guía	/es/docs/Web/JavaScript/Guide/Introduction
 /es/docs/Guía_JavaScript_1.5/Concepto_de_JavaScript	/es/docs/Web/JavaScript/Guide/Introduction
@@ -989,8 +991,8 @@
 /es/docs/JavaScript/Referencia/Objetos_globales/Array/forEach	/es/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
 /es/docs/JavaScript/Referencia/Objetos_globales/Array/indexOf	/es/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf
 /es/docs/JavaScript/Referencia/Objetos_globales/Array/push	/es/docs/Web/JavaScript/Reference/Global_Objects/Array/push
-/es/docs/JavaScript/Referencia/Objetos_globales/Array/reduce	/es/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce
-/es/docs/JavaScript/Referencia/Objetos_globales/Array/reduceRight	/es/docs/Web/JavaScript/Reference/Global_Objects/Array/ReduceRight
+/es/docs/JavaScript/Referencia/Objetos_globales/Array/reduce	/es/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
+/es/docs/JavaScript/Referencia/Objetos_globales/Array/reduceRight	/es/docs/Web/JavaScript/Reference/Global_Objects/Array/reduceRight
 /es/docs/JavaScript/Referencia/Objetos_globales/Boolean	/es/docs/Web/JavaScript/Reference/Global_Objects/Boolean
 /es/docs/JavaScript/Referencia/Objetos_globales/Boolean/toSource	/es/docs/Web/JavaScript/Reference/Global_Objects/Boolean/toString
 /es/docs/JavaScript/Referencia/Objetos_globales/Date	/es/docs/Web/JavaScript/Reference/Global_Objects/Date
@@ -1097,6 +1099,7 @@
 /es/docs/JavaScript/Referencia/Sentencias/var	/es/docs/Web/JavaScript/Reference/Statements/var
 /es/docs/JavaScript/Referencia/Sentencias/while	/es/docs/Web/JavaScript/Reference/Statements/while
 /es/docs/JavaScript/Una_nueva_introducción_a_JavaScript	/es/docs/Web/JavaScript/Language_Overview
+/es/docs/Learn	/es/docs/orphaned/Learn
 /es/docs/Learn/Accessibility/Qué_es_la_accesibilidad	/es/docs/Learn/Accessibility/What_is_accessibility
 /es/docs/Learn/Aprender_y_obtener_ayuda	/es/docs/Learn/Learning_and_getting_help
 /es/docs/Learn/CSS/Building_blocks/Cascada_y_herencia	/es/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance
@@ -1218,6 +1221,7 @@
 /es/docs/Learn/Server-side/Primeros_pasos/Web_frameworks	/es/docs/Learn/Server-side/First_steps/Web_frameworks
 /es/docs/Learn/Server-side/Primeros_pasos/seguridad_sitios_web	/es/docs/Learn/Server-side/First_steps/Website_security
 /es/docs/Learn/Using_Github_pages	/es/docs/Learn/Common_questions/Tools_and_setup/Using_Github_pages
+/es/docs/MDN	/es/docs/orphaned/MDN
 /es/docs/MDN/About	/es/docs/MDN/Writing_guidelines
 /es/docs/MDN/Comenzando	/es/docs/MDN/Community/Contributing/Getting_started
 /es/docs/MDN/Contribute/Content	/es/docs/conflicting/MDN/Writing_guidelines
@@ -1270,6 +1274,7 @@
 /es/docs/Mejoras_DOM_en_Firefox_3	/es/docs/Mozilla/Firefox/Releases/3/DOM_improvements
 /es/docs/Mejoras_SVG_en_Firefox_3	/es/docs/Mozilla/Firefox/Releases/3/SVG_improvements
 /es/docs/Mejoras_XUL_en_Firefox_3	/es/docs/Mozilla/Firefox/Releases/3/XUL_improvements_in_Firefox_3
+/es/docs/Mozilla	/es/docs/orphaned/Mozilla
 /es/docs/Mozilla/Add-ons/WebExtensions/Anatomia_de_una_WebExtension	/es/docs/Mozilla/Add-ons/WebExtensions/Anatomy_of_a_WebExtension
 /es/docs/Mozilla/Add-ons/WebExtensions/Prerequisitos	/es/docs/Mozilla/Add-ons/WebExtensions/Prerequisites
 /es/docs/Mozilla/Add-ons/WebExtensions/Que_son_las_WebExtensions	/es/docs/Mozilla/Add-ons/WebExtensions/What_are_WebExtensions
@@ -1277,7 +1282,7 @@
 /es/docs/Mozilla/Add-ons/WebExtensions/Tutorial	/es/docs/Mozilla/Add-ons/WebExtensions/Your_second_WebExtension
 /es/docs/Mozilla/Add-ons/WebExtensions/user_interface/Accion_navegador	/es/docs/Mozilla/Add-ons/WebExtensions/user_interface/Browser_action
 /es/docs/Plantillas_en_Firefox_3	/es/docs/Mozilla/Firefox/Releases/3/Templates
-/es/docs/Portada	/es/docs/Web
+/es/docs/Portada	/es/docs/orphaned/Web
 /es/docs/Preguntas_frecuentes_sobre_CSS	/es/docs/Learn/CSS/Howto/CSS_FAQ
 /es/docs/Quirks_Mode_and_Standards_Mode	/es/docs/Web/HTML/Quirks_Mode_and_Standards_Mode
 /es/docs/Referencia_CSS	/es/docs/Web/CSS/Reference
@@ -1317,8 +1322,8 @@
 /es/docs/Referencia_de_JavaScript_1.5/Objetos_globales/Array/forEach	/es/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
 /es/docs/Referencia_de_JavaScript_1.5/Objetos_globales/Array/indexOf	/es/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf
 /es/docs/Referencia_de_JavaScript_1.5/Objetos_globales/Array/push	/es/docs/Web/JavaScript/Reference/Global_Objects/Array/push
-/es/docs/Referencia_de_JavaScript_1.5/Objetos_globales/Array/reduce	/es/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce
-/es/docs/Referencia_de_JavaScript_1.5/Objetos_globales/Array/reduceRight	/es/docs/Web/JavaScript/Reference/Global_Objects/Array/ReduceRight
+/es/docs/Referencia_de_JavaScript_1.5/Objetos_globales/Array/reduce	/es/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
+/es/docs/Referencia_de_JavaScript_1.5/Objetos_globales/Array/reduceRight	/es/docs/Web/JavaScript/Reference/Global_Objects/Array/reduceRight
 /es/docs/Referencia_de_JavaScript_1.5/Objetos_globales/Boolean	/es/docs/Web/JavaScript/Reference/Global_Objects/Boolean
 /es/docs/Referencia_de_JavaScript_1.5/Objetos_globales/Boolean/toSource	/es/docs/Web/JavaScript/Reference/Global_Objects/Boolean/toString
 /es/docs/Referencia_de_JavaScript_1.5/Objetos_globales/Date	/es/docs/Web/JavaScript/Reference/Global_Objects/Date
@@ -1439,8 +1444,8 @@
 /es/docs/Referencia_de_JavaScript_1.5:Funciones_globales:parseInt	/es/docs/Web/JavaScript/Reference/Global_Objects/parseInt
 /es/docs/Referencia_de_JavaScript_1.5:Objetos_globales	/es/docs/Web/JavaScript/Reference/Global_Objects
 /es/docs/Referencia_de_JavaScript_1.5:Objetos_globales:Array	/es/docs/Web/JavaScript/Reference/Global_Objects/Array
-/es/docs/Referencia_de_JavaScript_1.5:Objetos_globales:Array:reduce	/es/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce
-/es/docs/Referencia_de_JavaScript_1.5:Objetos_globales:Array:reduceRight	/es/docs/Web/JavaScript/Reference/Global_Objects/Array/ReduceRight
+/es/docs/Referencia_de_JavaScript_1.5:Objetos_globales:Array:reduce	/es/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
+/es/docs/Referencia_de_JavaScript_1.5:Objetos_globales:Array:reduceRight	/es/docs/Web/JavaScript/Reference/Global_Objects/Array/reduceRight
 /es/docs/Referencia_de_JavaScript_1.5:Objetos_globales:Boolean	/es/docs/Web/JavaScript/Reference/Global_Objects/Boolean
 /es/docs/Referencia_de_JavaScript_1.5:Objetos_globales:Boolean:toSource	/es/docs/Web/JavaScript/Reference/Global_Objects/Boolean/toString
 /es/docs/Referencia_de_JavaScript_1.5:Objetos_globales:Date	/es/docs/Web/JavaScript/Reference/Global_Objects/Date
@@ -1587,6 +1592,7 @@
 /es/docs/Using_geolocation	/es/docs/Web/API/Geolocation_API
 /es/docs/Using_the_W3C_DOM_Level_1_Core	/es/docs/Web/API/Document_object_model/Using_the_Document_Object_Model
 /es/docs/Uso_de_URL_como_valor_de_la_propiedad_cursor	/es/docs/conflicting/Web/CSS/cursor
+/es/docs/Web	/es/docs/orphaned/Web
 /es/docs/Web/API/API_de_almacenamiento_web	/es/docs/Web/API/Web_Storage_API
 /es/docs/Web/API/API_de_almacenamiento_web/Usando_la_API_de_almacenamiento_web	/es/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API
 /es/docs/Web/API/API_del_portapapeles	/es/docs/Web/API/Clipboard_API
@@ -1609,7 +1615,7 @@
 /es/docs/Web/API/CanvasImageSource	/es/docs/conflicting/Web/API/CanvasRenderingContext2D
 /es/docs/Web/API/Canvas_API/A_basic_ray-caster	/es/docs/orphaned/Web/API/Canvas_API/A_basic_ray-caster
 /es/docs/Web/API/Canvas_API/Tutorial/Compositing/Ejemplo	/es/docs/Web/API/Canvas_API/Tutorial/Compositing/Example
-/es/docs/Web/API/Console/tabla	/es/docs/Web/API/Console/table
+/es/docs/Web/API/Console/tabla	/es/docs/Web/API/console/table
 /es/docs/Web/API/Constraint_validation/invalid_event	/es/docs/Web/API/HTMLInputElement/invalid_event
 /es/docs/Web/API/Coordinates	/es/docs/Web/API/GeolocationCoordinates
 /es/docs/Web/API/Coordinates/latitude	/es/docs/Web/API/GeolocationCoordinates/latitude
@@ -1904,6 +1910,7 @@
 /es/docs/Web/Guide/API/Vibration	/es/docs/Web/API/Vibration_API
 /es/docs/Web/Guide/API/WebRTC/Peer-to-peer_communications_with_WebRTC	/es/docs/conflicting/Web/API/WebRTC_API
 /es/docs/Web/Guide/CSS	/es/docs/Learn/CSS
+/es/docs/Web/Guide/CSS/Block_formatting_context	/es/docs/orphaned/Web/Guide/CSS/Block_formatting_context
 /es/docs/Web/Guide/HTML	/es/docs/Learn/HTML
 /es/docs/Web/Guide/HTML/Canvas_tutorial	/es/docs/Web/API/Canvas_API/Tutorial
 /es/docs/Web/Guide/HTML/Canvas_tutorial/Advanced_animations	/es/docs/Web/API/Canvas_API/Tutorial/Advanced_animations
@@ -2104,7 +2111,7 @@
 /es/docs/Web/HTML/Index	/es/docs/Web/HTML
 /es/docs/Web/HTML/Link_types	/es/docs/Web/HTML/Attributes/rel
 /es/docs/Web/HTML/Microdatos	/es/docs/Web/HTML/Microdata
-/es/docs/Web/HTML/Optimizing_your_pages_for_speculative_parsing	/es/docs/Glossary/speculative_parsing
+/es/docs/Web/HTML/Optimizing_your_pages_for_speculative_parsing	/es/docs/Glossary/Speculative_parsing
 /es/docs/Web/HTML/Referencia	/es/docs/Web/HTML/Reference
 /es/docs/Web/HTML/Tipos_de_enlaces	/es/docs/Web/HTML/Attributes/rel
 /es/docs/Web/HTML/Transision_adaptativa_DASH	/es/docs/Web/Media/DASH_Adaptive_Streaming_for_HTML_5_Video
@@ -2315,8 +2322,8 @@
 /es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/of	/es/docs/Web/JavaScript/Reference/Global_Objects/Array/of
 /es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/pop	/es/docs/Web/JavaScript/Reference/Global_Objects/Array/pop
 /es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/push	/es/docs/Web/JavaScript/Reference/Global_Objects/Array/push
-/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/reduce	/es/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce
-/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/reduceRight	/es/docs/Web/JavaScript/Reference/Global_Objects/Array/ReduceRight
+/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/reduce	/es/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
+/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/reduceRight	/es/docs/Web/JavaScript/Reference/Global_Objects/Array/reduceRight
 /es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/reverse	/es/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse
 /es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/shift	/es/docs/Web/JavaScript/Reference/Global_Objects/Array/shift
 /es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/slice	/es/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
@@ -2765,6 +2772,7 @@
 /es/docs/WebAPI/Estado_de_Bateria	/es/docs/Web/API/Battery_Status_API
 /es/docs/WebAPI/Pointer_Lock	/es/docs/Web/API/Pointer_Lock_API
 /es/docs/WebAPI/Using_geolocation	/es/docs/Web/API/Geolocation_API
+/es/docs/WebAssembly	/es/docs/orphaned/WebAssembly
 /es/docs/WebGL	/es/docs/Web/API/WebGL_API
 /es/docs/WebRTC/Introduction	/es/docs/Web/API/WebRTC_API/Session_lifetime
 /es/docs/WebRTC/MediaStream_API	/es/docs/Web/API/Media_Capture_and_Streams_API

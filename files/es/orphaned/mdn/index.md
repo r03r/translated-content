@@ -1,6 +1,7 @@
 ---
 title: El proyecto MDN
-slug: MDN
+slug: orphaned/MDN
+original_slug: MDN
 ---
 
 {{MDNSidebar}}

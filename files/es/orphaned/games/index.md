@@ -1,6 +1,7 @@
 ---
 title: Desarrollo de Videojuegos
-slug: Games
+slug: orphaned/Games
+original_slug: Games
 ---
 
 {{GamesSidebar}}

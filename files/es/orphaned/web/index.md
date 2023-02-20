@@ -1,6 +1,7 @@
 ---
 title: Tecnología para desarrolladores web
-slug: Web
+slug: orphaned/Web
+original_slug: Web
 ---
 
 La Web abierta presenta increíbles oportunidades para los desarrolladores. Para aprovechar al máximo estas tecnologías, debes saber cómo utilizarlas. A continuación, encontrarás enlaces a nuestra documentación de tecnología web.
